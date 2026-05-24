@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "tishkbase-web",
+  "name": "tishkbase",
   "compatibility_date": "2026-05-24",
   "main": "src/worker.js",
   "build": {
