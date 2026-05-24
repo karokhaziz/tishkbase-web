@@ -1,2 +1,1 @@
-http://tishkbase.com/* https://www.tishkbase.com/:splat 301
-https://tishkbase.com/* https://www.tishkbase.com/:splat 301
+# Domain-level redirects are handled in src/worker.js.
